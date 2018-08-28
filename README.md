@@ -14,3 +14,5 @@ GetPlaces.</p>
 <li>загрузчик данных реализован отдельным классом "DataLoader" реализующим шаблоны "Singleton" и "Observer";
 <li>для отображения полученных данных используется виджет RecyclerView, его адаптер реализован отдельным классом "PlaceAdapter";
 </ul>
+
+подписанная сборка APK размещена в этом репозитории, в https://github.com/VitalyVasilchuk/ServioTest/tree/master/app/release
