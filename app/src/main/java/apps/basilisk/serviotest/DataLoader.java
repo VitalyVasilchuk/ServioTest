@@ -17,7 +17,7 @@ public class DataLoader extends Observable {
     private static DataLoader instance;
 
     // объявление приватного конструктора запрещает создание экземпляра класса из вне
-    public DataLoader() {
+    private DataLoader() {
     }
 
     public static DataLoader getInstance() {
